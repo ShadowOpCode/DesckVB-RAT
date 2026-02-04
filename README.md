@@ -10,6 +10,7 @@ The analysis reconstructs the **entire infection lifecycle**, from initial JavaS
 
 > ⚠️ This repository does **not** distribute malicious binaries.  
 > It contains research material, indicators of compromise, and defensive insights only.
+<img width="1536" height="1024" alt="DesckVB RAT" src="https://github.com/user-attachments/assets/db59109c-19db-45a4-9da8-40c5a5bd9dee" />
 
 ---
 
